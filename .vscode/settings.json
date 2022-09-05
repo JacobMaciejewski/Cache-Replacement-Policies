@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "*.tcc": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "new": "cpp",
+        "type_traits": "cpp",
+        "iostream": "cpp"
+    }
+}
